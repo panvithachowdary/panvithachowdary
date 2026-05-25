@@ -61,15 +61,7 @@ Improving engineering depth
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=panvithachowdary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=panvithachowdary&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panvithachowdary&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="60%" src="https://streak-stats.demolab.com?user=panvithachowdary&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </p>
 
@@ -79,7 +71,7 @@ Improving engineering depth
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=panvithachowdary&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=panvithachowdary&theme=github-dark&hide_border=true" />
 
 </p>
 
