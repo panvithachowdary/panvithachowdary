@@ -1,12 +1,14 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+panvitha.exe...;%3E+loading+AI+systems...;%3E+initializing+full-stack+modules...;%3E+building+future+SaaS+products...;%3E+AI+Engineer+Ready+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+panvitha.exe...;%3E+loading+AI+systems...;%3E+initializing+full-stack+modules...;%3E+building+production-level+applications..." />
 
 </p>
 
 <h1 align="center">PANVITHA CHOWDARY</h1>
 
-<h3 align="center">⚡ AI & Full Stack Developer ⚡</h3>
+<p align="center">
+AI Engineer • Full Stack Developer • SaaS Builder
+</p>
 
 <p align="center">
 
@@ -20,48 +22,32 @@
 
 ---
 
-# 🧠 SYSTEM STATUS
+## SYSTEM STATUS
 
 ```bash
-> initializing developer profile...
-
 Name        : Panvitha Chowdary
 Role        : AI & Full Stack Developer
-Focus       : Production-Level SaaS Products
+Focus       : Production-Level SaaS Applications
 Learning    : System Design | AI Engineering
-Goal        : 30LPA+ Software Engineer
-Status      : Building consistently 🚀
+Goal        : High-Impact Software Engineering
+Status      : Building consistently
 ```
 
 ---
 
-# 🚀 ACTIVE MISSIONS
+## ACTIVE MISSIONS
 
 ```yaml
-Building scalable AI SaaS products
-Creating premium modern UIs
+Building scalable AI applications
+Designing modern full stack systems
 Learning backend architecture
-Improving problem-solving skills
 Exploring AI integrations
-Shipping projects consistently
+Improving engineering depth
 ```
 
 ---
 
-# 🌱 CURRENTLY LEARNING
-
-```yaml
-Next.js
-Backend Systems
-Docker
-AWS
-AI Engineering
-System Design
-```
-
----
-
-# 🛠 TECH ARSENAL
+## CURRENT STACK
 
 <p align="center">
 
@@ -71,7 +57,7 @@ System Design
 
 ---
 
-# ⚡ AI ENGINEER DASHBOARD
+## ENGINEERING DASHBOARD
 
 <p align="center">
 
@@ -89,7 +75,7 @@ System Design
 
 ---
 
-# 📈 CONTRIBUTION MATRIX
+## CONTRIBUTION MATRIX
 
 <p align="center">
 
@@ -99,7 +85,7 @@ System Design
 
 ---
 
-# 🏆 ACHIEVEMENTS
+## ACHIEVEMENTS
 
 <p align="center">
 
@@ -109,7 +95,7 @@ System Design
 
 ---
 
-# 🌐 CONNECT
+## CONNECT
 
 <p align="center">
 
@@ -121,11 +107,11 @@ System Design
 
 ---
 
-# ⚡ TERMINAL LOG
+## TERMINAL LOG
 
 ```bash
-> building real-world projects
-> exploring AI systems
-> improving every day
-> focused on consistency 🚀
+building real-world applications
+exploring AI systems
+improving every day
+focused on consistency
 ```
