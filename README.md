@@ -77,27 +77,6 @@ Improving engineering depth
 
 ---
 
-## ACHIEVEMENTS
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=panvithachowdary&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</p>
-
----
-
-## CONNECT
-
-<p align="center">
-
-<a href="https://my-portfolio-omega-sandy-74.vercel.app/">Portfolio</a>
-•
-<a href="https://github.com/panvithachowdary">GitHub</a>
-
-</p>
-
----
 
 ## TERMINAL LOG
 
