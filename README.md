@@ -76,7 +76,13 @@ Improving engineering depth
 </p>
 
 ---
+---
 
+## PAC-MAN CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/panvithachowdary/panvithachowdary/output/pacman-contribution-graph.svg" />
+</p>
 
 ## TERMINAL LOG
 
