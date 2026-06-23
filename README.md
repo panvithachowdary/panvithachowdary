@@ -67,16 +67,6 @@ Improving engineering depth
 
 ---
 
-## CONTRIBUTION MATRIX
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=panvithachowdary&theme=github-dark&hide_border=true" />
-
-</p>
-
----
----
 
 ## PAC-MAN CONTRIBUTION GRAPH
 
