@@ -1,257 +1,129 @@
-# AI ENGINEER
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=READY+PLAYER+PANVITHA;AI+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+REAL+WORLD+SOFTWARE;LEVELING+UP+EVERY+DAY" />
+</p>
 
 <h1 align="center">PANVITHA CHOWDARY</h1>
 
 <p align="center">
-  <b>AI Engineer | Full-Stack Developer | SaaS Builder</b>
+  AI Engineer • Full Stack Developer • SaaS Builder
 </p>
 
 <p align="center">
-  Building intelligent, scalable products that solve real-world problems.
+  <img src="https://komarev.com/ghpvc/?username=panvithachowdary&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/panvithachowdary?logo=github&style=for-the-badge&color=FFD700" />
 </p>
 
 ---
 
-## PROFILE
+## PLAYER STATUS
 
-```text
-PLAYER STATUS
-────────────────────────────────────────────────────
+```yaml
+Player: Panvitha Chowdary
+Class: AI Engineer + Full Stack Developer
+Level: B.Tech CSE
+XP: Building Real-World Applications
 
-Name        : Panvitha Chowdary
-Role        : AI Engineer | Full-Stack Developer
-Education   : B.Tech CSE
-Status      : Actively Building
+Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - SaaS Products
 
-Focus Areas
-  • Artificial Intelligence
-  • Full-Stack Development
-  • SaaS Products
-  • Backend Engineering
-  • System Design
+Learning:
+  - System Design
+  - Backend Architecture
+  - Cloud Technologies
+  - Advanced AI Engineering
 
-Currently Learning
-  • System Design
-  • Backend Architecture
-  • Cloud Technologies
-  • Advanced AI Engineering
+Status: ACTIVE
 ```
 
 ---
 
-## CURRENT FOCUS
+## CURRENT QUESTS
 
-* Building scalable AI applications
-* Designing modern full-stack systems
-* Exploring AI agents and intelligent automation
-* Strengthening backend engineering skills
-* Solving Data Structures and Algorithms problems
-* Developing production-ready applications
-
----
-
-## TECHNOLOGY STACK
-
-### Artificial Intelligence
-
-`Python` `Machine Learning` `AI Agents` `Data Analysis`
-
-### Programming
-
-`Java` `Python` `JavaScript` `TypeScript`
-
-### Frontend
-
-`HTML` `CSS` `JavaScript` `React`
-
-### Backend
-
-`Node.js` `REST APIs` `Backend Architecture`
-
-### Databases
-
-`MongoDB` `SQL`
-
-### Tools and Cloud
-
-`Git` `GitHub` `Docker` `AWS` `VS Code`
-
----
-
-## CODING PROFILE
-
-```text
-CODING PROGRESS
-────────────────────────────────────────────────────
-
-Data Structures & Algorithms    ████████░░
-AI / Machine Learning           ███████░░░
-Full-Stack Development          ████████░░
-Backend Engineering             ██████░░░░
-Cloud & DevOps                  █████░░░░░
+```yaml
+✓ Building scalable AI applications
+✓ Designing modern full stack systems
+✓ Exploring AI integrations
+✓ Strengthening backend engineering skills
+✓ Solving Data Structures and Algorithms problems
+✓ Building production-ready applications
 ```
+
+---
+
+
+## 3D CONTRIBUTION GRAPH
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="3D GitHub Contribution Graph"
+  />
+</p>
 
 ---
 
 ## FEATURED PROJECTS
 
+
 ### ResumeAI
 
-AI-powered resume intelligence platform.
+AI-powered resume intelligence platform featuring ATS analysis, job-description matching, cover letter generation, resume improvement, and interview preparation.
 
-* ATS-focused resume analysis
-* Job description matching
-* AI-powered resume improvements
-* Cover letter generation
-* Resume bullet enhancement
-* Interview preparation
-
-**Technologies:** `AI` `NLP` `Full-Stack`
+**Focus:** `AI` `NLP` `Full Stack` `Career Tech`
 
 ---
 
 ### AlgoVision
 
-Interactive Data Structures and Algorithms visualization platform.
+Interactive Data Structures and Algorithms visualizer featuring sorting algorithms, graphs, trees, BFS, DFS, Merge Sort, Quick Sort, and algorithm recommendations.
 
-* Sorting algorithm visualization
-* Graph traversal
-* BFS and DFS
-* Merge Sort
-* Quick Sort
-* Algorithm recommendations
-
-**Technologies:** `Algorithms` `JavaScript` `Visualization`
+**Focus:** `Algorithms` `Visualization` `JavaScript` `Education`
 
 ---
 
-### TrustLens AI
+### The Gifting Co.
 
-AI-powered cybersecurity alert analysis platform.
+AI-powered personalized gifting platform that recommends thoughtful gifts based on relationship, occasion, interests, budget, and shopping preferences, with real product links and nearby offline store discovery.
 
-* Security log analysis
-* Suspicious pattern detection
-* AI-assisted threat analysis
-* Automated security reports
-* Simplified security event analysis
-
-**Technologies:** `AI` `Cybersecurity` `Log Analysis`
-
----
-
-### Admit Atlas
-
-College discovery and comparison platform designed to help students make informed decisions.
-
-* College discovery
-* College comparison
-* Course information
-* Admission information
-* Student-focused decision support
-
-**Technologies:** `EdTech` `Web Development` `Data`
-
----
-
-## PROGRAMMING PROFILE
-
-```text
-GAME STATS
-────────────────────────────────────────────────────
-
-LeetCode Rating       : 1474
-CodeChef Rating       : 1100+
-Codeforces Rating     : 952
-
-Problems Solved
-  LeetCode             : 150+
-  CodeChef             : 100+
-  Codeforces           : 100+
-```
-
----
-
-## AREAS OF INTEREST
-
-```text
-AI ENGINEERING
-    |
-    +-- Generative AI
-    +-- AI Agents
-    +-- Intelligent Automation
-    +-- AI-powered Applications
-
-SOFTWARE ENGINEERING
-    |
-    +-- System Design
-    +-- Backend Architecture
-    +-- REST APIs
-    +-- Scalable Applications
-
-PROBLEM SOLVING
-    |
-    +-- Data Structures
-    +-- Algorithms
-    +-- Competitive Programming
-    +-- Optimization
-```
-
----
-
-## CURRENTLY BUILDING
-
-```text
-AI + SOFTWARE + PRODUCT
-
-Learn
-  |
-Build
-  |
-Test
-  |
-Improve
-  |
-Deploy
-  |
-Repeat
-```
+**Focus:** `AI` `React` `Node.js` `APIs` `E-Commerce`
 
 ---
 
 ## ACHIEVEMENTS
 
-* Built multiple AI-focused application concepts
-* Developed full-stack applications
-* Practiced Data Structures and Algorithms consistently
-* Explored AI agents and intelligent automation
-* Worked with backend technologies and APIs
-* Developed interest in scalable system architecture
-* Exploring cloud technologies and deployment
+```text
+[UNLOCKED]
+
++ Built AI-powered products
++ Built Full Stack SaaS applications
++ Integrated LLMs into real projects
++ Developed production-ready applications
++ Practiced Data Structures and Algorithms
++ Explored AI agents and automation
+```
 
 ---
 
-## DEVELOPMENT LOG
+## GAME LOG
 
-```text
-SYSTEM LOG
-────────────────────────────────────────────────────
+```bash
+[LEVEL UP]
 
-+ Built AI-powered applications
-+ Developed full-stack projects
-+ Practiced Data Structures and Algorithms
-+ Explored AI agents
-+ Studied backend architecture
-+ Worked with cloud technologies
-+ Built and tested product prototypes
++ Built AI-powered products
++ Built Full Stack SaaS applications
++ Integrated LLMs into real projects
++ Developed and deployed production-ready systems
 
-NEXT OBJECTIVES
-────────────────────────────────────────────────────
+[CURRENT OBJECTIVES]
 
-> Build useful products
-> Solve complex engineering problems
-> Strengthen system design skills
-> Advance AI engineering capabilities
-> Ship production-ready applications
+> Build impactful software
+> Learn continuously
+> Strengthen engineering skills
+> Ship consistently
+> Reach the next high score
 ```
 
 ---
@@ -261,11 +133,11 @@ NEXT OBJECTIVES
 <p align="center">
 
 <a href="https://github.com/panvithachowdary">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/panvitha-chowdary">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
